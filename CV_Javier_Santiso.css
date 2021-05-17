@@ -1,0 +1,13 @@
+h1{background-color: darkblue; color: darkgray;}
+h2{font-size: x-large; color: blue;}
+h3{font-style: italic; font-size: xx-large; color: darkred;}
+p{font-weight: bold;font-family: sans-serif;}
+#Ultimo_Parrafo{
+    width: 300px;
+    height: auto;
+    background-color: chartreuse;
+    position: relative;
+    top: auto;
+    left: 100px;
+
+}
